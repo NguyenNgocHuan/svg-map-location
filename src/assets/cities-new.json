@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Pensacola",
+        "id": "1",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "-87.278481",
+            "30.382648"
+          ],
+          "properties": {
+            "name": "United Arab Emirates",
+            "countryCode": "AE",
+            "value": "1.19"
+          }
+        }
+      },
+      {
+        "type": "Hai phong",
+        "id": "2",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "106.683830",
+            "20.865139"
+          ],
+          "properties": {
+            "name": "United Arab Emirates",
+            "countryCode": "AE",
+            "value": "1.19"
+          }
+        }
+      }
+    ]
+}
